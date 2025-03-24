@@ -1,11 +1,11 @@
 # Thor-s-Great-Adventure
-#Overview
-#Title of Game: Thor’s Great Adventure
-#It is a text-based game that follows our character Thor throughout his adventure, throughout his adventure you are faced with choices that alter your game as you move forward. The language of the game is Python, we utilize built in libraries such as time and random. 
-#Code Hosting: The game is being hosted on GitHub via collaborative invite or link invite. 
-#GitHub Link: https://github.com/sn0w0b/Thor-s-Great-Adventure
-#System Requirements
-#Operating System: Windows 7,8,10, or 11/ macOS/ Linux 
+
+Title of Game: Thor’s Great Adventure
+Overview: It is a text-based game that follows our character Thor throughout his adventure, throughout his adventure you are faced with choices that alter your game as you move forward. The language of the game is Python, we utilize built in libraries such as time and random. 
+Code Hosting: The game is being hosted on GitHub via collaborative invite or link invite. 
+GitHub Link: https://github.com/sn0w0b/Thor-s-Great-Adventure
+System Requirements
+Operating System: Windows 7,8,10, or 11/ macOS/ Linux 
 RAM: Minimum – 2GB / Preferable – 4GB
 Storage: Good starting point is 10 GB. 
 CPU: Any simple processor would work fine. 
